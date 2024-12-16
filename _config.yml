@@ -38,7 +38,7 @@ social:
   email: debbie_yee@brown.edu # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    #- https://https://bsky.app/profile/debyee.bsky.social # change to your Twitter homepage
+    - https://bsky.app/profile/debyee.bsky.social # change to your Twitter homepage
     - https://github.com/debyee # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
