@@ -1,16 +1,19 @@
 ---
-title: RLDM Workshop 2025 Representational Alignment and Aging
+title: RLDM 2025 Representational Alignment and Aging Workshop
 author: Debbie Yee
 date: 2025-03-30 15:11:00 +0800
-categories: [Conferences, Tutorial]
+categories: [Conferences, Workshops]
 tags: [conferences, rldm, aging, reinforcement learning]
 comments: false
 ---
 
-## Representational Alignment And Aging
+# Representational Alignment and Aging
 
-Accepted Workshop for [RLDM 2025](https://rldm.org/)
-June 11-15, 2025 at Trinity College (Dublin, Ireland)
+Accepted Workshop for [RLDM 2025](https://rldm.org/){:target="_blank"}\
+June 11-15, 2025 \
+Trinity College (Dublin, Ireland)
+
+## Summary
 
 Motivations, goals, and rewards are the building blocks of RL, but where do they come from? In traditional RL models we typically ignore these questions, but in the study of human cognition they are front and center. For example, Socioemotional Selectivity Theory (SST) describes how people select and prioritize goals and how their motivations change - especially as they age and their perceived future time horizons are shortened. According to SST, as they age humans increasingly prioritize social, emotional, and physical well-being over optimizing behavior in the pursuit of extrinsic rewards (e.g., money, prizes). Yet, how to align these socioemotional functions into an integrative theory of learning over the lifespan is unknown. This intuitive understanding that an agent’s perceived time horizon influences the evolution of goal selection (either in biological or artificial age) has yet to be formalized computationally in models of reinforcement learning and decision-making. This representational alignment is critical for moving towards a holistic understanding of the mechanisms that underlie how motivational and affective functions are represented in both natural and artificial agents across the lifespan. 
 
@@ -18,15 +21,54 @@ This workshop aims to bridge the gap between the representation of socioemotiona
 
 ## Speakers
 
-Derek Issacowitz (Washington University in St. Louis)\
-Jo Cutler (University of Birmingham)\
-Michiko Sakaki (University of Tübingen)\
-Erin Grant (Gatsby Computational Neuroscience Unit)\
-Maxime Adolphe (INRIA)\
-Mark Ho (New York University)
+[Derek Issacowitz](https://sites.wustl.edu/lifespan/){:target="_blank"} (Washington University in St. Louis)\
+[Jo Cutler](https://www.jocutler.com/){:target="_blank"} (University of Birmingham)\
+[Michiko Sakaki](https://affectlearningscience.org/){:target="_blank"} (University of Tübingen)\
+[Erin Grant](https://eringrant.github.io/){:target="_blank"} (Gatsby Computational Neuroscience Unit)\
+[Maxime Adolphe](https://scholar.google.com/citations?user=QLtZ3cAAAAAJ&hl=en){:target="_blank"} (INRIA)\
+[Mark Ho](https://markkho.github.io/){:target="_blank"} (New York University)\
+Matt Sutterer (National Institute on Aging)\
+Luke Stoeckel (Nationtal Institue on Aging)
+
+<table style="border-collapse: collapse; width: 100%;">
+  <tr>
+    <th style="border: 1px solid black;">Speaker</th>
+    <th style="border: 1px solid black;">Talk Title</th>
+  </tr>
+  <tr>
+    <td style="border: 1px solid black;">Derek Isaacowitz</td>
+    <td style="border: 1px solid black;">What Aspects of Socioemotional Aging Theories (and Findings) Should We Consider for AI/Computational Models?</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid black;">Jo Cutler</td>
+    <td style="border: 1px solid black;">Opposing Pavlovian influences on reward and pain learning for self and other
+</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid black;">Michiko Sakaki</td>
+    <td style="border: 1px solid black;">Effects of age on curiosity and information seeking</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid black;">Erin Grant</td>
+    <td style="border: 1px solid black;">Grounding cognitive capacities in representation learning systems</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid black;">Maxmime Adolphe</td>
+    <td style="border: 1px solid black;">Personalization of cognitive training in aging populations using AI models of intrinsically motivated learning</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid black;">Mark Ho</td>
+    <td style="border: 1px solid black;">Communication and coordination for representational alignment</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid black;">Matt Sutterer, Luke Stoeckel</td>
+    <td style="border: 1px solid black;">Translation of NeuroAI to Aging: Perspective of the NIA </td>
+  </tr>
+</table>
+
 
 ## Workshop Organizers
 
-Debbie Yee (Brown)\
-Angela Radulescu (Mt. Sinai)\
-Bob Wilson (Georgia Tech)\
+[Debbie Yee](https://debyeeneuro.com/) (Brown)\
+[Angela Radulescu](https://www.angelaradulescu.com/) (Mt. Sinai)\
+[Bob Wilson](https://psychology.gatech.edu/people/robert-wilson) (Georgia Tech)\
