@@ -2,7 +2,7 @@
 title: RLDM Workshop 2025 Representational Alignment and Aging
 author: Debbie Yee
 date: 2025-03-30 15:11:00 +0800
-categories: [Conference, Tutorial]
+categories: [Conferences, Tutorial]
 tags: [conferences, rldm, aging, reinforcement learning]
 comments: false
 ---
@@ -18,15 +18,15 @@ This workshop aims to bridge the gap between the representation of socioemotiona
 
 ## Speakers
 
-Derek Issacowitz (Washington University in St. Louis)
-Jo Cutler (University of Birmingham)
-Michiko Sakaki (University of Tübingen)
-Erin Grant (Gatsby Computational Neuroscience Unit)
-Maxime Adolphe (INRIA)
+Derek Issacowitz (Washington University in St. Louis)\
+Jo Cutler (University of Birmingham)\
+Michiko Sakaki (University of Tübingen)\
+Erin Grant (Gatsby Computational Neuroscience Unit)\
+Maxime Adolphe (INRIA)\
 Mark Ho (New York University)
 
 ## Workshop Organizers
 
-Debbie Yee (Brown)
-Angela Radulescu (Mt. Sinai)
-Bob Wilson (Georgia Tech)
+Debbie Yee (Brown)\
+Angela Radulescu (Mt. Sinai)\
+Bob Wilson (Georgia Tech)\
