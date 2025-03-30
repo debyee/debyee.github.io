@@ -71,4 +71,4 @@ Luke Stoeckel (Nationtal Institue on Aging)
 
 [Debbie Yee](https://debyeeneuro.com/) (Brown)\
 [Angela Radulescu](https://www.angelaradulescu.com/) (Mt. Sinai)\
-[Bob Wilson](https://psychology.gatech.edu/people/robert-wilson) (Georgia Tech)\
+[Bob Wilson](https://psychology.gatech.edu/people/robert-wilson) (Georgia Tech)
