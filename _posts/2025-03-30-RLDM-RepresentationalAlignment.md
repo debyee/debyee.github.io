@@ -10,7 +10,7 @@ comments: false
 ## Representational Alignment And Aging
 
 Accepted Workshop for [RLDM 2025](https://rldm.org/)
-June 11-15, 2025
+June 11-15, 2025 at Trinity College (Dublin, Ireland)
 
 Motivations, goals, and rewards are the building blocks of RL, but where do they come from? In traditional RL models we typically ignore these questions, but in the study of human cognition they are front and center. For example, Socioemotional Selectivity Theory (SST) describes how people select and prioritize goals and how their motivations change - especially as they age and their perceived future time horizons are shortened. According to SST, as they age humans increasingly prioritize social, emotional, and physical well-being over optimizing behavior in the pursuit of extrinsic rewards (e.g., money, prizes). Yet, how to align these socioemotional functions into an integrative theory of learning over the lifespan is unknown. This intuitive understanding that an agent’s perceived time horizon influences the evolution of goal selection (either in biological or artificial age) has yet to be formalized computationally in models of reinforcement learning and decision-making. This representational alignment is critical for moving towards a holistic understanding of the mechanisms that underlie how motivational and affective functions are represented in both natural and artificial agents across the lifespan. 
 
