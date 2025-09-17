@@ -58,7 +58,7 @@ jobs:
 
       - name: Test site with html-proofer
         run: |
-        bundle exec htmlproofer "_site${{ steps.pages.outputs.base_path }}" \
+          bundle exec htmlproofer "_site${{ steps.pages.outputs.base_path }}" \
             --disable-external \
             --no-enforce-https \
             --allow-missing-href \
