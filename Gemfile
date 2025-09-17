@@ -65,5 +65,5 @@ gem "tzinfo-data" if Gem.win_platform?
 gem "logger"
 
 group :development, :test do
-  gem "html-proofer", "~> 5.0"
+  gem "html-proofer", "= 5.0.9"
 end
