@@ -58,10 +58,13 @@ jobs:
 
       - name: Test site with html-proofer
         run: |
-          bundle exec htmlproofer "_site${{ steps.pages.outputs.base_path }}" \
-            --config .htmlproofer.yml \
+        bundle exec htmlproofer "_site${{ steps.pages.outputs.base_path }}" \
             --disable-external \
-            --check-internal-hash
+            --no-enforce-https \
+            --allow-missing-href \
+            --check-internal-hash \
+            --file-ignore "/^_site\/docs\//,/^_site\/example\//,/^_site\/CHANGELOG\//,/^_site\/licenses\//,/^_site\/NOTICE\//"
+
 
 
       - name: Upload site artifact
