@@ -63,7 +63,7 @@ jobs:
             --no-enforce-https \
             --allow-missing-href \
             --check-internal-hash \
-            --file-ignore "/^_site\/docs\//,/^_site\/example\//,/^_site\/CHANGELOG\//,/^_site\/licenses\//,/^_site\/NOTICE\//"
+            --ignore-files "/^_site\/docs\//,/^_site\/example\//,/^_site\/CHANGELOG\//,/^_site\/licenses\//,/^_site\/NOTICE\//"
 
 
 
