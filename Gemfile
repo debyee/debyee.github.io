@@ -3,6 +3,11 @@
 source "https://rubygems.org"
 
 gem "jekyll-theme-chirpy", "~> 7.2", ">= 7.2.3"
+gem "jekyll", "~> 4.3"
+gem "jekyll-theme-hydejack"
+gem "jekyll-include-cache"
+gem "jekyll-seo-tag"
+gem "webrick"
 
 gem "html-proofer", "~> 5.0", group: :test
 
