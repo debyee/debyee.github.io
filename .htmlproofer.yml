@@ -1,0 +1,19 @@
+# .htmlproofer.yml
+# Only validate what's relevant for your live site.
+file_ignore:
+  - %r{^_site/docs/}
+  - %r{^_site/example/}
+  - %r{^_site/CHANGELOG/}
+  - %r{^_site/licenses/}
+  - %r{^_site/NOTICE/}
+
+# Don't force HTTPS (lots of upstream docs still use http://).
+enforce_https: false
+
+# Hydejack and many themes use <a> elements without href as UI triggers.
+allow_missing_href: true
+
+# (You already have --disable-external in the CLI)
+# Optional: normalize protocol-relative URLs if any slip through
+url_swap:
+  '^//': 'https://'
