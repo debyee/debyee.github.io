@@ -480,7 +480,7 @@ jekyll_compose:
 
 # # Fill in the protocol & hostname for your site.
 # # E.g. 'https://username.github.io', note that it does not end with a '/'.
-# url: "https://debyee.github.io"
+url: "https://debyee.github.io"
 
 # github:
 #   username: debyee # change to your GitHub username
