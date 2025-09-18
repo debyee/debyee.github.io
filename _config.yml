@@ -323,13 +323,7 @@ exclude:
   - Gemfile.lock
   - functions
   - LICENSE
-  - docs
-  - example
-  - CHANGELOG*
-  - LICENSE*
-  - NOTICE*
-  - licenses
-  - download
+
 include:
   - _routes.json
   - .well-known
