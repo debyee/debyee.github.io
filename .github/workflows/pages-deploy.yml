@@ -62,8 +62,8 @@ jobs:
             --disable-external \
             --no-enforce-https \
             --allow-missing-href \
-            --check-internal-hash \
-            --ignore-files "/^docs\//,/^example\//,/^licenses\//,/^CHANGELOG\//,/^NOTICE\//" 
+            --ignore-urls "/example/,/CHANGELOG/,/docs/" \
+            --ignore-files "/docs/,/example/,/CHANGELOG/"
 
       - name: Upload site artifact
         uses: actions/upload-pages-artifact@v3
