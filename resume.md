@@ -10,14 +10,16 @@ description: Last Updated January 31, 2026
 
 ## Education
 
-**Ph.D., Psychological & Brain Sciences** | Washington University in St. Louis | 2019  
+**Ph.D., Psychological & Brain Sciences**  
+Washington University in St. Louis (2019)  
 *Dissertation: Neural Mechanisms of Motivational Incentive Integration and Cognitive Control*
 
-**B.S., Brain & Cognitive Sciences** | Massachusetts Institute of Technology | 2011
+**B.S., Brain & Cognitive Sciences**  
+Massachusetts Institute of Technology (2011)  
 
 ---
 
-## Current Research
+## Current Research Funding
 
 **NIH K99/R00 Pathway to Independence Award** (2024–2029)  
 *Neurocomputational mechanisms of serotonin, sustained stress, and mental effort allocation*
