@@ -2,34 +2,51 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
 author1:
-  name:              Debbie Yee
-  email:             <debbie_yee@brown.edu>
+  name: Debbie Yee
+  email: <debbie_yee@brown.edu>
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
-  about:             |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    
-    Open `_data/authors.yml` to edit this text.
+  about: |
+
+    I am a K99 Postdoctoral Research Fellow in the Department of <a href="https://copsy.brown.edu/" target="blank">
+    Cognitive and Psychological Sciences]</a> and the <a href="https://carney.brown.edu/" target="blank">
+    Carney Institute for Brain Science</a> at Brown University.
+
+    My research investigates the neural and computational mechanisms of motivation, affect, cognitive control,
+    and decision-making. I leveraage computational cognitive modeling, fMRI neuroimaging, and pharmacology techniques
+    to develop a mechanistic understanding of the neuromodulatory role of serotonin on stress and decision-making,
+    with an eye towards translating these neurocomputational frameworks to understand dyregulated motivational and
+    affective processes in mental and neurological illness across the lifespan.
+
+    As a computational cognitive neuroscientist, I aim to increase awareness of and contribute to systemic changes
+    that will promote inclusive excellence. I am especially passionate about promoting leadership opportunities for
+    women and marginalized individuals, and advocate for a diverse generation of future computaitonal neuroscientists.
+    (Check out our <a href="https://sites.brown.edu/gran/">Growing Up in Aging Neuroscience</a> Talk Series!)
+
+    In my free time, I enjoy rock climbing, hot yoga, distance running, hiking, and camping.
+    Feel free to reach out to connect on any of these topics!
 
   # This photo will be used in the about section
   picture:
-    path:            https://via.placeholder.com/128x128
+    path: /assets/img/DebbieYee_profile.png
+    # https://via.placeholder.com/128x128
     # srcset is optional, but can be used to provide higher res versions for retina displays
     srcset:
-      1x:            https://via.placeholder.com/128x128
-      2x:            https://via.placeholder.com/256x256
+      1x: /assets/img/DebbieYee_profile.png
+      #https://via.placeholder.com/128x128
+      2x: /assets/img/DebbieYee_profile.png
+      #https://via.placeholder.com/256x256
 
   # Social media icons in sidebar
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   # You can also provide an absolute URL (starting with https://) instead of usernames
   social:
-    twitter:         <username>
-    github:          <username>
-    # email:           <mail@domain.tld>
+    twitter: https://x.com/debyeeneuro
+    github: https://github.com/debyee
+    bluesky: https://bsky.app/profile/debyee.bsky.social
+    email: debbie_yee@brown.edu
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     # google:          <number>
@@ -80,18 +97,17 @@ author1:
     # discord:         <invite-code>
     # mastodon:        https://<url>
     # x:               <username>
-
 # Another author (optional)
-author2:
-  name:              <firtname> <lastname>
-  email:             <mail@domain.tld>
-  about:             |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+# author2:
+#   name: <firtname> <lastname>
+#   email: <mail@domain.tld>
+#   about: |
+#     Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+#     sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+#     Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
-    Open `_data/authors.yml` to edit this text.
+#     Open `_data/authors.yml` to edit this text.
 
-  picture:           https://placehold.it/128x128
-  twitter:           <username>
-  github:            <username>
+#   picture: https://placehold.it/128x128
+#   twitter: <username>
+#   github: <username>
