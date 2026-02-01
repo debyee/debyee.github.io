@@ -99,8 +99,9 @@ theme: jekyll-theme-hydejack
 # ----------------------------------------------------------------------------------------
 
 # Sidebar image and theme color of the site.
-accent_image: /assets/img/sidebar-bg.jpg
-accent_color: rgb(79,177,186)
+#accent_image: /assets/img/sidebar-bg.jpg
+accent_image: /assets/img/brainheart-bg.png
+accent_color: rgb(125,16,24)
 
 # This is used for the `theme-color` meta tag,
 # which changes the background color of the browser UI in certain browsers.
@@ -370,9 +371,13 @@ plugins:
 social:
   name: Debbie Yee
   links:
-    - https://twitter.com/debyee
-    - https://bsky.app/profile/debyee.bsky.social
-    - https://github.com/debyee
+    - title: twitter
+      url: https://twitter.com/debyee
+    - title: bluesky
+      url: https://bsky.app/profile/debyee.bsky.social
+      icon: bluesky
+    - title: github
+      url: https://github.com/debyee
 
 # Plugin Configs
 # ---------------------------------------------------------------------------------------
