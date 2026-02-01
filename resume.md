@@ -4,8 +4,6 @@ title: Curriculum Vitae
 description: Last Updated January 31, 2026
 ---
 
-# Curriculum Vitae
-
 **Download full CV (PDF):** [DebbieYee_CV.pdf](/assets/DebbieYee_CV.pdf)
 
 ---

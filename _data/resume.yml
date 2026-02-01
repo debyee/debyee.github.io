@@ -1,0 +1,205 @@
+# Resume Data Template for Hydejack
+# This follows the JSON Resume schema: https://jsonresume.org/schema/
+
+# Basic Information
+basics:
+  name: "Dr. Debbie Yee"
+  label: "Computational Cognitive Affective Neuroscientist"
+  image: "/assets/img/DebbieYee_profile.png"
+  email: "debbie_yee@brown.edu"
+  phone: "(555) 123-4567" # Optional - remove if you don't want to share
+  url: "https://debyee.github.io"
+  summary: >
+    Brief professional summary about yourself. 2-3 sentences describing your
+    research interests, expertise, and what you're passionate about. For example:
+    Computational cognitive affective neuroscientist interested in understanding
+    serotonin's role in stress and resilience using fMRI and computational modeling.
+
+  location:
+    address: "" # Optional
+    postalCode: "" # Optional
+    city: "Providence"
+    countryCode: "US"
+    region: "Rhode Island"
+
+  profiles:
+    - network: "Twitter"
+      username: "debyee"
+      url: "https://twitter.com/debyee"
+    - network: "Bluesky"
+      username: "debyee"
+      url: "https://bsky.app/profile/debyee.bsky.social"
+    - network: "GitHub"
+      username: "debyee"
+      url: "https://github.com/debyee"
+    # Add more social profiles as needed
+
+# Work Experience
+work:
+  - company: "Institution/University Name"
+    position: "Position Title (e.g., Postdoctoral Researcher)"
+    website: "https://institution.edu"
+    startDate: "2020-09-01"
+    endDate: "" # Leave empty if current position
+    summary: >
+      Brief description of your role, research focus, and main responsibilities.
+    highlights:
+      - "Key achievement or responsibility #1"
+      - "Key achievement or responsibility #2"
+      - "Major project or publication"
+
+  - company: "Previous Institution"
+    position: "Graduate Research Assistant"
+    website: "https://previous-institution.edu"
+    startDate: "2015-09-01"
+    endDate: "2020-05-31"
+    summary: >
+      Description of your graduate research work.
+    highlights:
+      - "Dissertation work or major findings"
+      - "Collaborations or projects"
+      - "Awards or recognition"
+
+# Education
+education:
+  - institution: "University Name"
+    url: "https://university.edu"
+    area: "Neuroscience" # Your field of study
+    studyType: "Ph.D."
+    startDate: "2015-09-01"
+    endDate: "2020-05-31"
+    score: "" # GPA - optional
+    courses:
+      - "Computational Neuroscience"
+      - "Affective Neuroscience"
+      - "Advanced Statistics"
+
+  - institution: "Undergraduate University"
+    url: "https://undergrad.edu"
+    area: "Psychology"
+    studyType: "B.A."
+    startDate: "2011-09-01"
+    endDate: "2015-05-31"
+    score: "3.8" # Optional
+    courses:
+      - "Relevant Course 1"
+      - "Relevant Course 2"
+
+# Awards and Honors
+awards:
+  - title: "Award Name"
+    date: "2023-05-01"
+    awarder: "Organization/Institution"
+    summary: "Brief description of the award and why you received it."
+
+  - title: "Fellowship/Grant Name"
+    date: "2021-09-01"
+    awarder: "Funding Organization"
+    summary: "Description of the fellowship or grant."
+
+# Publications (optional - you might want a separate publications page)
+publications:
+  - name: "Title of Your Paper"
+    publisher: "Journal Name"
+    releaseDate: "2023-03-15"
+    url: "https://doi.org/10.xxxx/xxxxx"
+    summary: "Brief summary of the paper's findings and significance."
+
+  - name: "Another Publication Title"
+    publisher: "Conference Proceedings"
+    releaseDate: "2022-11-01"
+    url: "https://doi.org/10.xxxx/xxxxx"
+    summary: "Summary of this work."
+
+# Skills
+skills:
+  - name: "Neuroimaging"
+    level: "Expert"
+    keywords:
+      - "fMRI"
+      - "MRI preprocessing"
+      - "FSL"
+      - "SPM"
+      - "AFNI"
+
+  - name: "Programming"
+    level: "Advanced"
+    keywords:
+      - "Python"
+      - "R"
+      - "MATLAB"
+      - "Julia"
+
+  - name: "Data Analysis"
+    level: "Expert"
+    keywords:
+      - "Computational modeling"
+      - "Machine learning"
+      - "Statistical analysis"
+      - "Time series analysis"
+
+  - name: "Research Methods"
+    level: "Expert"
+    keywords:
+      - "Experimental design"
+      - "Psychophysiology"
+      - "Behavioral experiments"
+
+# Languages
+languages:
+  - language: "English"
+    fluency: "Native speaker"
+
+  - language: "Mandarin" # Example - add your languages
+    fluency: "Professional working proficiency"
+
+# Interests (optional)
+interests:
+  - name: "Research Areas"
+    keywords:
+      - "Affective neuroscience"
+      - "Computational psychiatry"
+      - "Stress and resilience"
+      - "Serotonin systems"
+
+  - name: "Hobbies" # Optional personal interests
+    keywords:
+      - "Science communication"
+      - "Open science"
+      - "Mentoring"
+
+# Volunteer Work (optional)
+volunteer:
+  - organization: "Organization Name"
+    position: "Volunteer Position"
+    url: "https://organization.org"
+    startDate: "2021-01-01"
+    endDate: "2023-12-31"
+    summary: "Description of your volunteer work."
+    highlights:
+      - "Key contribution or achievement"
+
+# References (optional - many people leave this off and say "available upon request")
+references:
+  - name: "Dr. Reference Name"
+    reference: "Available upon request"
+  # Or you can include actual references:
+  # - name: "Dr. Jane Smith"
+  #   reference: "Quote from reference letter or relationship description."
+# Projects (optional - for research projects, software, etc.)
+# Note: Hydejack has a separate projects collection, so you might use that instead
+# projects:
+#   - name: "Project Name"
+#     description: "Description of the research project"
+#     highlights:
+#       - "Key finding or contribution"
+#     keywords:
+#       - "fMRI"
+#       - "computational modeling"
+#     startDate: "2021-01-01"
+#     endDate: "2023-12-31"
+#     url: "https://project-website.com"
+#     roles:
+#       - "Principal Investigator"
+#     entity: "Lab or Institution"
+#     type: "research"  # or "application", "website", etc.
