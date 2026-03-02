@@ -2,6 +2,7 @@
 layout: page
 title: vita
 description: Last Updated March 1, 2026
+permalink: /vita/
 ---
 
 **Download full CV (PDF):** [DebbieYee_CV.pdf](/assets/DebbieYee_CV.pdf)
@@ -10,22 +11,19 @@ description: Last Updated March 1, 2026
 
 ## Academic Appointments
 
-**Postdoc, Cognitive and Psychological Sciences**  
-Brown University (2019-2026)
+**Assistant Professor**, *University of Iowa*  
+Department of Psychological and Brain Sciences  
+August 2026 - Present
 
-**Ph.D., Psychological & Brain Sciences**  
-Washington University in St. Louis (2013-2019)  
-*Dissertation: Neural Mechanisms of Motivational Incentive Integration and Cognitive Control*
+**Postdoctoral Research Associate**, *Brown University*  
+Department of Cognitive and Psychological Sciences  
+Carney Institute for Brain Science  
+September 2019 - August 2026
 
-**B.S., Brain & Cognitive Sciences**  
-Massachusetts Institute of Technology (2007-2011)  
 
 ---
 
 ## Education & Training
-
-**Postdoc, Cognitive and Psychological Sciences**  
-Brown University (2019-2026)
 
 **Ph.D., Psychological & Brain Sciences**  
 Washington University in St. Louis (2013-2019)  
@@ -64,6 +62,7 @@ Weber L., **Yee D.M.**, Small D., Petzschner F. (2025). The interoceptive origin
 - NIH Pathway to Independence Award (K99/R00), 2024–2029
 - Brown Postdoctoral Excellence Award for Community, 2025
 - Society of Biological Psychiatry Early Career Travel Fellowship, 2026
+- ARC Scholar (on R25), 2022-2024
 - NIH Computational Psychiatry Training Fellowship (T32), 2021–2023
 
 ---
@@ -86,5 +85,3 @@ Weber L., **Yee D.M.**, Small D., Petzschner F. (2025). The interoceptive origin
 **GitHub:** <a href="https://github.com/debyee" target="_blank" rel="noopener noreferrer">@debyee</a>
 
 ---
-
-*For a complete CV including full publication list, teaching experience, and service activities, please download the PDF above.*

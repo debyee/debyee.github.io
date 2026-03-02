@@ -1,14 +1,10 @@
 ---
-layout: none
+layout: page
+title: about
 ---
-<!DOCTYPE html>
-<html lang="en-US">
-  <meta charset="utf-8">
-  <title>Redirecting...</title>
-  <link rel="canonical" href="{{ '/about/' | relative_url }}">
-  <script>location="{{ '/about/' | relative_url }}"</script>
-  <meta http-equiv="refresh" content="0; url={{ '/about/' | relative_url }}">
-  <meta name="robots" content="noindex">
-  <h1>Redirecting...</h1>
-  <a href="{{ '/about/' | relative_url }}">Click here if you are not redirected.</a>
-</html>
+
+{% if site.author.bio %}
+  {{ site.author.bio | markdownify }}
+{% else %}
+  <p>Bio not found. Please check your _config.yml.</p>
+{% endif %}

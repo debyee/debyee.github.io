@@ -1,13 +1,10 @@
 ---
-layout: about
+layout: page
+title: about
 image: /assets/img/DebbieYee_profile.jpg
-description: >
-  about me
-hide_description: true
-redirect_from:
-  - /download/
+permalink: /about/
 ---
 
-# About
+<meta http-equiv="refresh" content="0; url={{ '/' | relative_url }}">
 
-<!--author-->
+<p>Redirecting to <a href="{{ '/' | relative_url }}">Home</a>...</p>
