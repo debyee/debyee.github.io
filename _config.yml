@@ -54,7 +54,7 @@ menu:
   - title: about
     url: /about/
   - title: vita
-    url: /vita/
+    url: 
   - title: recent news
     url: /recent/
   - title: resources
@@ -478,9 +478,6 @@ jekyll_compose:
 # # Fill in the protocol & hostname for your site.
 # # E.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://debyee.github.io"
-# Custom favicon and app icon paths (place your files in `assets/icons`)
-favicon: /assets/img/brainheart-icon.png
-apple_touch_icon: /assets/img/brainheart-icon.png
 # github:
 #   username: debyee # change to your GitHub username
 
