@@ -1,8 +1,8 @@
 ---
 layout: about
-image: /assets/img/blog/hydejack-9.jpg
+image: /assets/img/DebbieYee_profile.jpg
 description: >
-  About Me!
+  about me
 hide_description: true
 redirect_from:
   - /download/

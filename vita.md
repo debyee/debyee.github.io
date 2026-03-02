@@ -1,21 +1,38 @@
 ---
 layout: page
-title: Curriculum Vitae
-description: Last Updated January 31, 2026
+title: vita
+description: Last Updated March 1, 2026
 ---
 
 **Download full CV (PDF):** [DebbieYee_CV.pdf](/assets/DebbieYee_CV.pdf)
 
 ---
 
-## Education
+## Academic Appointments
+
+**Postdoc, Cognitive and Psychological Sciences**  
+Brown University (2019-2026)
 
 **Ph.D., Psychological & Brain Sciences**  
-Washington University in St. Louis (2019)  
+Washington University in St. Louis (2013-2019)  
 *Dissertation: Neural Mechanisms of Motivational Incentive Integration and Cognitive Control*
 
 **B.S., Brain & Cognitive Sciences**  
-Massachusetts Institute of Technology (2011)  
+Massachusetts Institute of Technology (2007-2011)  
+
+---
+
+## Education & Training
+
+**Postdoc, Cognitive and Psychological Sciences**  
+Brown University (2019-2026)
+
+**Ph.D., Psychological & Brain Sciences**  
+Washington University in St. Louis (2013-2019)  
+*Dissertation: Neural Mechanisms of Motivational Incentive Integration and Cognitive Control*
+
+**B.S., Brain & Cognitive Sciences**  
+Massachusetts Institute of Technology (2007-2011)  
 
 ---
 
@@ -27,6 +44,8 @@ Massachusetts Institute of Technology (2011)
 ---
 
 ## Selected Publications
+
+Weber L., **Yee D.M.**, Small D., Petzschner F. (2025). The interoceptive origin of reinforcement learning. Trends in Cognitive Sciences.
 
 **Yee, D.M.** (2024). Neural and Computational Mechanisms of Motivation and Decision-making. *Journal of Cognitive Neuroscience.*
 
@@ -40,19 +59,18 @@ Massachusetts Institute of Technology (2011)
 
 ---
 
-## Honors & Awards
+## Recent Honors & Awards
 
 - NIH Pathway to Independence Award (K99/R00), 2024–2029
 - Brown Postdoctoral Excellence Award for Community, 2025
 - Society of Biological Psychiatry Early Career Travel Fellowship, 2026
 - NIH Computational Psychiatry Training Fellowship (T32), 2021–2023
-- Kavli Summer Institute for Cognitive Neuroscience Fellow, 2016
 
 ---
 
 ## Skills & Expertise
 
-**Methods:** fMRI, computational modeling, behavioral experiments, reinforcement learning models, drift diffusion models
+**Methods:** fMRI, computational cognitive modeling, psychopharmacology
 
 **Programming:** R, MATLAB, Python, bash
 

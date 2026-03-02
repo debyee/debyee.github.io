@@ -51,14 +51,14 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title: About
+  - title: about
     url: /about/
-  - title: CV
-    url: /resume/
-  - title: Recent
+  - title: vita
+    url: /vita/
+  - title: recent news
     url: /recent/
-  # - title:             Tutorials
-  #   url:               /docs/
+  - title: resources
+    url: /docs/
   # - title:             Example
   #   url:               /example/
   # - title:             Documentation
@@ -131,7 +131,7 @@ font_heading: Montserrat, Helvetica, Arial, sans-serif
 
 # The font used for code blocks. Expects a string that is a valid CSS font-family value.
 # Defaults to the [System Monospace Font Stack](https://qwtel.com/posts/software/the-monospaced-system-ui-css-font-stack/).
-font_code: Fira Code, Menlo, Monaco, Consolas, monospace;
+font_code: Fira Code, Menlo, Monaco, Consolas, monospace
 
 defaults:
   # You can use this to provide a default accent color and background for
@@ -478,6 +478,9 @@ jekyll_compose:
 # # Fill in the protocol & hostname for your site.
 # # E.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://debyee.github.io"
+# Custom favicon and app icon paths (place your files in `assets/icons`)
+favicon: /assets/img/brainheart-icon.png
+apple_touch_icon: /assets/img/brainheart-icon.png
 # github:
 #   username: debyee # change to your GitHub username
 
