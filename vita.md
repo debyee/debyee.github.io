@@ -26,11 +26,13 @@ September 2019 - August 2026
 ## Education & Training
 
 **Ph.D., Psychological & Brain Sciences**  
-Washington University in St. Louis (2013-2019)  
+Washington University in St. Louis 
+August 2013 - August 2019  
 *Dissertation: Neural Mechanisms of Motivational Incentive Integration and Cognitive Control*
 
 **B.S., Brain & Cognitive Sciences**  
-Massachusetts Institute of Technology (2007-2011)  
+Massachusetts Institute of Technology 
+August 2007 - June 2011  
 
 ---
 
