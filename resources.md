@@ -22,9 +22,6 @@ Below is a collection of miscellaneous resources.
 * [MRIcroGL](https://www.nitrc.org/projects/mricrogl)
 * [CANLab Toolboxes](https://canlab.github.io/_pages/canlab_help_1_installing_tools/canlab_help_1_installing_tools.html)
 
-
-
-
 ## Computational Cognitive Modeling
 * [Computational Cognitive Neuroscience Course](https://compcogneuro.org)
 * [Model-Based Reinforcement Learning](https://bair.berkeley.edu/blog/2019/12/12/mbpo/)
@@ -44,7 +41,7 @@ Below is a collection of miscellaneous resources.
 * [Paletteer](https://emilhvitfeldt.github.io/paletteer/)
 * [ggpubfigs](https://github.com/JLSteenwyk/ggpubfigs)
 * [Tidymodels](https://www.tidymodels.org)
-
+* [Reproducible Statistics for Psychologists with R](https://www.crumplab.com/rstatsforpsych/index.html)
 
 ## Promoting Inclusive Excellence
 * [Resources for First Gen/Low-Income Scientists](https://debyeeneuro.com/relevant-links/)
