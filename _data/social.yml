@@ -261,7 +261,9 @@ discord:
 mastodon:
   name: Mastodon
   icon: icon-mastodon
-# bluesky:
-#   name: Bluesky
-#   icon: paper-plane
-#   prepent: https://bsky.app/
+bluesky:
+  name: Bluesky
+  icon: bluesky
+google-scholar:
+  name: Google Scholar
+  icon: google-scholar

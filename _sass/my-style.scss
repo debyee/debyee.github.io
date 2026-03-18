@@ -1,3 +1,27 @@
+// Bluesky butterfly icon (SVG mask)
+.bluesky::before {
+  content: '';
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  background-color: currentColor;
+  -webkit-mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 600 530'%3E%3Cpath d='M135.72 44.03C202.216 93.951 273.74 195.17 300 249.49c26.262-54.316 97.782-155.54 164.28-205.46C512.26 8.009 590-19.862 590 68.825c0 17.553-10.062 147.44-15.98 168.52-20.567 73.535-95.514 92.206-162.12 80.887 116.43 19.825 146.04 85.446 82.027 151.07-121.52 124.71-174.75-31.288-187.87-71.257-2.295-6.732-3.37-9.884-3.387-7.211-.016-2.673-1.092.479-3.387 7.211-13.12 39.969-66.353 195.97-187.87 71.257-64.015-65.621-34.404-131.24 82.027-151.07-66.608 11.319-141.56-7.352-162.12-80.887C25.062 216.27 15 86.373 15 68.825c0-88.687 77.742-60.816 120.72-24.795z'/%3E%3C/svg%3E") no-repeat center / contain;
+  mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 600 530'%3E%3Cpath d='M135.72 44.03C202.216 93.951 273.74 195.17 300 249.49c26.262-54.316 97.782-155.54 164.28-205.46C512.26 8.009 590-19.862 590 68.825c0 17.553-10.062 147.44-15.98 168.52-20.567 73.535-95.514 92.206-162.12 80.887 116.43 19.825 146.04 85.446 82.027 151.07-121.52 124.71-174.75-31.288-187.87-71.257-2.295-6.732-3.37-9.884-3.387-7.211-.016-2.673-1.092.479-3.387 7.211-13.12 39.969-66.353 195.97-187.87 71.257-64.015-65.621-34.404-131.24 82.027-151.07-66.608 11.319-141.56-7.352-162.12-80.887C25.062 216.27 15 86.373 15 68.825c0-88.687 77.742-60.816 120.72-24.795z'/%3E%3C/svg%3E") no-repeat center / contain;
+  vertical-align: -0.1em;
+}
+
+// Google Scholar graduation cap icon (SVG mask)
+.google-scholar::before {
+  content: '';
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  background-color: currentColor;
+  -webkit-mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M12 3L1 9l11 6 9-4.91V17h2V9L12 3zM5 13.18v4L12 21l7-3.82v-4L12 17l-7-3.82z'/%3E%3C/svg%3E") no-repeat center / contain;
+  mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M12 3L1 9l11 6 9-4.91V17h2V9L12 3zM5 13.18v4L12 21l7-3.82v-4L12 17l-7-3.82z'/%3E%3C/svg%3E") no-repeat center / contain;
+  vertical-align: -0.1em;
+}
+
 // Make the cover page full-screen on desktop (not just mobile)
 @media screen and (min-width: 64em) {
   hy-drawer.cover {
