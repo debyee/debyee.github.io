@@ -13,7 +13,7 @@ permalink: /vita/
 
 **Assistant Professor**, *University of Iowa*  
 Department of Psychological and Brain Sciences  
-Deparment of Psychiatry (Secondary)  
+Department of Psychiatry (Secondary)  
 Iowa Neuroscience Institute  
 August 2026 - Present
 
