@@ -10,7 +10,7 @@ slug: recent
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  This is collation the recent news for Dr. Yee!
+  Recent News & Updates
 
 # (Optional) You can disable grouping posts by date.
 # no_groups: true

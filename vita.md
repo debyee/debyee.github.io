@@ -1,7 +1,7 @@
 ---
 layout: page
 title: vita
-description: Last Updated March 1, 2026
+description: Last Updated March 24, 2026
 permalink: /vita/
 ---
 
@@ -83,7 +83,7 @@ Weber L., **Yee D.M.**, Small D., Petzschner F. (2025). The interoceptive origin
 
 ## Social Media
 
-**Twitter:** <a href="https://twitter.com/debyee" target="_blank" rel="noopener noreferrer">@debyee</a>  
+**Twitter:** <a href="https://twitter.com/debyeeneuro" target="_blank" rel="noopener noreferrer">@debyeeneuro</a>  
 **Bluesky:** <a href="https://bsky.app/profile/debyee.bsky.social" target="_blank" rel="noopener noreferrer">@debyee.bsky.social</a>  
 **GitHub:** <a href="https://github.com/debyee" target="_blank" rel="noopener noreferrer">@debyee</a>
 
