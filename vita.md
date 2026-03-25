@@ -13,6 +13,8 @@ permalink: /vita/
 
 **Assistant Professor**, *University of Iowa*  
 Department of Psychological and Brain Sciences  
+Deparment of Psychiatry (Secondary)  
+Iowa Neuroscience Institute  
 August 2026 - Present
 
 **Postdoctoral Research Associate**, *Brown University*  
@@ -79,9 +81,8 @@ Weber L., **Yee D.M.**, Small D., Petzschner F. (2025). The interoceptive origin
 
 ---
 
-## Contact
+## Social Media
 
-**Email:** <a href="mailto:debbie_yee@brown.edu">debbie_yee@brown.edu</a>  
 **Twitter:** <a href="https://twitter.com/debyee" target="_blank" rel="noopener noreferrer">@debyee</a>  
 **Bluesky:** <a href="https://bsky.app/profile/debyee.bsky.social" target="_blank" rel="noopener noreferrer">@debyee.bsky.social</a>  
 **GitHub:** <a href="https://github.com/debyee" target="_blank" rel="noopener noreferrer">@debyee</a>

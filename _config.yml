@@ -50,18 +50,24 @@ author:
     Cognitive and Psychological Sciences</a> and the<a href="https://carney.brown.edu/" target="blank">
     Carney Institute for Brain Science</a> at Brown University. I will be starting an Assistant Professor in 
     <a href="https://psychology.uiowa.edu/" target="blank">Psychological and Brain Sciences</a> 
-    at the University of Iowa starting in August 2026. 
-
+    at the University of Iowa starting in August 2026. I am also affiliated with the 
+    <a href="https://psychiatry.uiowa.edu/" target="blank">Psychiatry Department</a> and the 
+    <a href="https://neuroscience.uiowa.edu/" target="blank">Iowa Neuroscience Institute</a>.
 
     I serve as the Director of the <a href="https://yeelabneuro.github.io" target="blank"> Computational 
-    Affective Motivational Psychiatry (CAMP)</a> Lab. I study mechanisms of motivation, affect, and decision-making 
-    across the developmental lifespan, and leverage neurocomputational frameworks and digital mental health to 
-    understand how neural and physiological processes are dysregulated in mental and neurological illness. 
+    Affective Motivational Psychiatry</a> Lab. Our group studies mechanisms of motivation, affect, and decision-making 
+    across the developmental lifespan, and we leverage neurocomputational frameworks and digital mental health to 
+    understand how neural and physiological processes are dysregulated in mental illness. 
     How do neurotransmitter systems like serotonin and dopamine shape affective and motivational processes 
     to guide (mal)adaptive decision-making? How do therapeutic interventions like pharmacological agents 
     and transcranial neuromodulation improve mental health outcomes and promote healthy aging? These are some 
     of the key questions that drive my interdisciplinary research program. 
 
+    I will be recruiting students for Fall 2026. I can advise students through the 
+    <a href="https://psychology.uiowa.edu/graduate/" target="blank">Psychological 
+    and Brain Sciences graduate program</a> (Behavioral & Cognitive Neuroscience, Clinical Science, 
+    or Individualized Tracks) and through the <a href="https://neuroscience.uiowa.edu/graduate/" 
+    target="blank">Neuroscience graduate program</a>.
 
     As a computational cognitive affective neuroscientist, I seek to bridge basic and clinical science research, 
     through organizing interdisciplinary workshops on <a href="https://sites.brown.edu/gran/registration/">aging 
@@ -153,17 +159,17 @@ theme_color: rgb(25,55,71)
 # The string encoding which fonts to fetch from Google Fonts.
 # See: <https://hydejack.com/docs/configuration/>
 # google_fonts:          Roboto+Slab:700|Noto+Sans:400,400i,700,700i
-google_fonts: Lato:400,700|Montserrat:600,700
+google_fonts: Jost:400,700
 
 # The text font. Expects a string that is a valid CSS font-family value.
 # To change font-weight, see _sass/variables.scss
 # font:                  Noto Sans, Helvetica, Arial, sans-serif
-font: Lato, Helvetica, Arial, sans-serif
+font: Jost, Helvetica, Arial, sans-serif
 
 # The font used for headings. Expects a string that is a valid CSS font-family value.
 # To change font-weight, see _sass/variables.scss
 # font_heading:          Roboto Slab, Helvetica, Arial, sans-serif
-font_heading: Montserrat, Helvetica, Arial, sans-serif
+font_heading: Jost, Helvetica, Arial, sans-serif
 
 # The font used for code blocks. Expects a string that is a valid CSS font-family value.
 # Defaults to the [System Monospace Font Stack](https://qwtel.com/posts/software/the-monospaced-system-ui-css-font-stack/).
